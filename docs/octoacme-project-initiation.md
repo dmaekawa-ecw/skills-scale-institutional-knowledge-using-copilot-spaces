@@ -14,10 +14,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (see [Communication Plan Template](octoacme-communication-plan-template.md))
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Decision log initialized (see [Decision Log Template](octoacme-decision-log-template.md))
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Developers
+  - Product Manager
+  - Project Manager
+  - Scrum Master (if using agile methodology)
+  - UX Designer (if user-facing features)
+  - Data Analyst (if metrics-driven)
+  - Technical Writer (if documentation-heavy)
+  - Release Manager (for complex deployments)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

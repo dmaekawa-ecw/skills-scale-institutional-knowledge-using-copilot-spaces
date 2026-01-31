@@ -14,12 +14,17 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Facilitated by Scrum Master or Project Manager
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Review relevant metrics with Data Analyst (if applicable)
+- Consider UX feedback and user research findings
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Document significant improvements and learnings in [Decision Log](octoacme-decision-log-template.md)
+- Update process documentation (by Technical Writer, if changes affect documented processes)
 
 ## Example Action Item Template
 - Title:
@@ -29,5 +34,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - Success criteria:
 
 ## Continuous Improvement Culture
-- Measure impact of action items
+- Measure impact of action items (with Data Analyst support for metrics)
 - Celebrate improvements and make small, iterative changes
+- Share learnings across teams through documentation
+- Consider role handoffs and transitions (see [Role Handoff Template](octoacme-role-handoff-template.md))
