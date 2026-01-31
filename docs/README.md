@@ -8,7 +8,7 @@ The project lifecycle begins with **Initiation**, where teams validate business 
 
 **Release and Deployment** follows a standardized approach with pre-release checklists, smoke testing in staging environments, and documented rollback plans to minimize production risks. All releases include comprehensive notes and stakeholder communications coordinated through support and product teams. Following each release or milestone, teams conduct **Retrospectives** to capture learnings and convert them into actionable improvements, creating a culture of continuous enhancement.
 
-Key roles driving this process include Project Managers (coordinating delivery, schedules, and risk), Product Managers (defining outcomes and prioritizing backlogs), Developers (implementing features with quality), and QA/Testing teams (validating acceptance criteria). Communication follows a structured cadence with twice-weekly standups, weekly PM-PdM syncs, and monthly stakeholder updates, while escalation paths are clearly defined from team-level triage through sponsor-level decisions for business-critical issues.
+Key roles driving this process include Project Managers (coordinating delivery, schedules, and risk), Product Managers (defining outcomes and prioritizing backlogs), Developers (implementing features with quality), and QA/Testing teams (validating acceptance criteria). Communication follows a structured cadence with twice-weekly standups, weekly PM-PdM syncs, and monthly stakeholder updates. Escalation paths are clearly defined, progressing from team-level triage to PM coordination, then Product Lead involvement, and ultimately sponsor-level decisions for business-critical issues.
 
 ## Documentation Index
 
