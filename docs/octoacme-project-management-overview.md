@@ -14,11 +14,21 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role descriptions.
+
+**Essential Roles:**
+- **Project Manager (PM):** coordinates delivery, schedules, risk, communications
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success
+- **Developers:** implement features, collaborate on design and testability
+
+**Supporting Roles (as needed):**
+- **Scrum Master:** facilitates agile ceremonies, coaches team, removes blockers
+- **UX Designer:** ensures user-centric design and usability
+- **Data Analyst:** analyzes data to inform decision-making and track success metrics
+- **Technical Writer:** prepares clear documentation for processes and users
+- **Release Manager:** manages deployment schedules and incident response
+- **QA/Testing:** validates quality and acceptance criteria
+- **Stakeholders:** provide inputs and approvals
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +37,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Decision Log](octoacme-decision-log-template.md)
+- [Communication Plan](octoacme-communication-plan-template.md)
+- [Role Handoff Documents](octoacme-role-handoff-template.md) (when team members transition)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -36,10 +49,13 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
+- Daily standups facilitated by Scrum Master (if using agile)
 - Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
+- Bi-weekly design reviews (if UX Designer involved)
+- Weekly metrics review (if Data Analyst involved)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+- See [Communication Plan Template](octoacme-communication-plan-template.md) for detailed guidance
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
